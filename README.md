@@ -24,5 +24,3 @@ A simple, interactive command-line application built to help users track their m
 Below is an example of the generated report and bar chart:
 
 
-## 📸 Demo / Output Example
-Below is an example of the generated report and bar chart:
