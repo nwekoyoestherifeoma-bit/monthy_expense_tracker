@@ -20,7 +20,4 @@ A simple, interactive command-line application built to help users track their m
 3. Input your expenses one by one (e.g., Rent, Food, Savings).
 4. Type `no` when you are done adding expenses.
 5. View your generated **Expense Report** and data visualization chart instantly
- ## Demo / Output Example
-Below is an example of the generated report and bar chart:
-
-
+ 
