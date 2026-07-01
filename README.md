@@ -1,6 +1,6 @@
 # Monthly Expense Tracker 
 
-A simple, interactive Python command-line application built in Google Colab to help users track their monthly spending, analyze their budget, and visualize their expenses.
+A simple, interactive command-line application built to help users track their monthly spending, analyze their budget, and visualize their expenses.
 
 ## Features
 * **Interactive Data Entry:** Prompts users to input expense names and amounts dynamically.
